@@ -1,9 +1,9 @@
-# Naufal Information Player
+# Naufal Peleburan
 Delete Vehicle Player ESX
 
 QBCORE and QBX Soon
 
-## Features ESX
+## Features
 
 - Menghapus kendaraan kamu di database sesuai plate dan model kendaraan
 - Easy Config
